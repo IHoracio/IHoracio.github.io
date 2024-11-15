@@ -3,4 +3,4 @@ layout: page
 title: About
 ---
 
-Something about me.
+Buenas actualmente estudiante de DAW, programando JAVA y JS.
